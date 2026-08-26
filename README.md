@@ -1,8 +1,5 @@
 🌤️ Weather Pipeline - Projeto de ETL Meteorológico
-https://img.shields.io/badge/Python-3.14-blue.svg
-https://img.shields.io/badge/Airflow-3.1.7-orange.svg
-https://img.shields.io/badge/PostgreSQL-16-blue.svg
-https://img.shields.io/badge/Docker-24.0-blue.svg
+
 
 Pipeline completo de ETL (Extract, Transform, Load) para dados meteorológicos, utilizando a API do OpenWeatherMap, com orquestração via Apache Airflow e armazenamento em PostgreSQL.
 
