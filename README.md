@@ -2,6 +2,8 @@
 
 Pipeline completo de **ETL (Extract, Transform, Load)** para dados meteorológicos, utilizando a **API OpenWeatherMap**, com orquestração via **Apache Airflow** e armazenamento em **PostgreSQL**.
 
+> 💡 **Projeto inspirado em um desafio proposto pelo [Dados por Todos](https://www.dadosportodos.com.br/)**, desenvolvido e adaptado como projeto de portfólio para aprofundar conhecimentos em Engenharia de Dados, automação e orquestração de pipelines.
+
 ---
 
 ## 🎯 Sobre o Projeto
@@ -13,6 +15,8 @@ Este projeto implementa um pipeline de dados automatizado que:
 * 🗄️ **Carrega** os dados processados em um banco PostgreSQL
 * ⚙️ **Orquestra** todo o processo utilizando Apache Airflow
 * ⏰ Executa automaticamente a cada **6 horas**
+
+O projeto foi desenvolvido a partir da proposta do desafio do **Dados por Todos**, com adaptações e implementações próprias voltadas à prática de conceitos de Engenharia de Dados.
 
 ### 💡 Aplicações
 
@@ -371,5 +375,4 @@ Este projeto demonstra conceitos importantes de Engenharia de Dados:
 
 Projeto desenvolvido como parte do portfólio de **Engenharia de Dados**, com foco em construção e orquestração de pipelines ETL utilizando Python, APIs, Apache Airflow, Docker e PostgreSQL.
 
----
-
+Este projeto está disponível para fins educacionais e de portfólio.
